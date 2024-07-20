@@ -1,0 +1,2 @@
+# SimpleTapBot
+SimpleTapBot App AutoClicker
