@@ -5,8 +5,8 @@ from loguru import logger
 from urllib.parse import unquote
 import httpx, time, os, threading, random
 
-API_ID = 
-API_HASH = ''
+API_ID = 12735088
+API_HASH = '367fbd3d9ce186f160eca00c8a1aa3b8'
 
 CLICKS_AMOUNT = 5
 SLEEP_AFTER_TAP = 5
